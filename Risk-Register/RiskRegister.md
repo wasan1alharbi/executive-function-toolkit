@@ -27,7 +27,9 @@ This is an example table that you can fill it up and customise. Its picture is b
 
 <img width="1259" height="695" alt="image" src="https://github.com/user-attachments/assets/745bde4b-2cee-4cd9-9e98-d9a1a2ee5704" />
 
-All the 
+### How to open it/use it?
+
+All instructions are in this file "A note in regards to the Risk Register.rtf". This can be found in the same folder: Risk-Register.
 
 ---
 
