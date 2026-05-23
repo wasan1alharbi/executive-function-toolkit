@@ -12,6 +12,25 @@ Usually, this belongs in one of two places:
 
 ---
 
+## An customisable risk register table using excalidraw
+
+### What is excalidraw?
+
+excalidraw is a free, open-source virtual whiteboard that allows users to easily sketch diagrams with a distinctive and hand-drawn style. It also helps you with creating similar designs to Miro and FigJam but for free.
+
+
+### Where to find it?
+
+In this folder you will find a file titled: "Risk Register Guide and example.excalidraw" 
+
+This is an example table that you can fill it up and customise. Its picture is below:
+
+<img width="1259" height="695" alt="image" src="https://github.com/user-attachments/assets/745bde4b-2cee-4cd9-9e98-d9a1a2ee5704" />
+
+All the 
+
+---
+
 ## The two things everyone mixes up
 
 When writing your table, you will need a "Mitigation" and a "Contingency". Here is the difference:
